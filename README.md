@@ -1,16 +1,21 @@
-# location_based_app
+# Location Based App
 
-A new Flutter project.
+This Flutter application allows users to enter a location or use their current location and displays it on a map using Google Maps.
 
-## Getting Started
+## Features
+- Input a location manually.
+- Detect the location entered.
+- View the location on a map with various map types (normal, satellite, terrain).
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+- Flutter SDK (version 3.19.6 or later)
+- Dart SDK (version 3.3.4 or later)
+- Android Studio or Visual Studio Code
+- Android device or emulator for testing
 
-A few resources to get you started if this is your first Flutter project:
+## Setup Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clone the Repository
+Clone this repository to your local machine using:
+```bash
+git clone https://github.com/your_username/location_based_app.git
